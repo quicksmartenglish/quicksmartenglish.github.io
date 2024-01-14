@@ -17,7 +17,7 @@ theme:
     © 2024 QuickSmartEnglish, Inc.
 
   # Icons
-  rss: true
+  rss: false
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
@@ -36,7 +36,7 @@ theme:
   tumblr:
   twitter:
   wordpress:
-  youtube: youtube.com/quicksmartenglish
+  youtube:
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
