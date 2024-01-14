@@ -38,13 +38,23 @@
     display:block;
     margin:1.5em auto;
   }
+
+  a img {
+    max-width: 40%;
+  }
+
+  @media (max-width: 1100px) {
+    a img {
+      max-width: 90%;
+    }
+  }
 }
 .call-out p:last-child {
   margin-bottom: 0;
 }
 // Post listing
 .posts {
-  @extend %padding-header;
+  @extend %padding-regular;
   .post-header {
     text-align: center;
   }
@@ -101,6 +111,7 @@
     .project-description {
       width:100%;
       float:left;
+      padding: 5% 10%;
       text-align: center;
       margin-bottom: 0;
       display: inline-block;
