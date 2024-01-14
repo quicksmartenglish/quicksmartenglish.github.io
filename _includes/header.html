@@ -14,12 +14,11 @@
 	</nav>
 
 	{% if site.theme.header_text %}
-  <div class="call-out" 
-  style="background-image: url('{{ site.baseurl }}/{{ site.theme.header_text_feature_image }}')">
-  	<h1 class="site-title">
-			<a href="{{ site.baseurl }}/">{{ site.theme.title }}</a>
-		</h1>
-		<div class="divider"></div>
+  <div class="call-out">
+  	<!-- <h1 class="site-title">
+      <a href="{{ site.baseurl }}/"><img width="400" src="{{ site.baseurl }}/{{ site.theme.header_text_feature_image }}" alt="{{ site.theme.title }}" /></a>
+    </h1> -->
+		<!-- <div class="divider"></div> -->
     {{ site.theme.header_text }}
     <div class="divider"></div>
     <!-- Social icons from Font Awesome, if enabled -->

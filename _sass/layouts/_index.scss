@@ -1,6 +1,6 @@
 // Header text feature
 .call-out {
-  padding:5% 0;
+  padding:1% 0;
   display: inline-block;
   width: 100%;
   background-size: cover;
@@ -71,7 +71,7 @@
 
 // Work listing
 .work {
-  @extend %padding-regular;
+  // @extend %padding-regular;
   background-size: $feature-image-size;
   text-align: center;
   display: block;
@@ -95,6 +95,7 @@
         display:block;
         text-align: center;
         margin:0 auto 1%;
+        max-width: 900px;
       }
     }
     .project-description {

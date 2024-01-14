@@ -1,7 +1,8 @@
 # SITE CONFIGURATION
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.quicksmartenglish.com" # the base hostname & protocol for your site
-
+plugins:
+  - jekyll-paginate
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
@@ -10,14 +11,13 @@ theme:
 
   # Header and footer text
   header_text: >
-    <h1>Quick Smart English</h1>
-    <p>Elevate Your Speech: Quick, Smart, Fluent English.</p>
-  header_text_feature_image:
+    <a href="{{ site.baseurl }}/"><img width="400" src="/img/logo.png" alt="Quick Smart English. Elevate Your Speech: Quick, Smart, Fluent English." /></a>
+  header_text_feature_image: img/logo.png
   footer_text: >
     © 2024 QuickSmartEnglish, Inc.
 
   # Icons
-  rss: false
+  rss: true
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
@@ -36,7 +36,7 @@ theme:
   tumblr:
   twitter:
   wordpress:
-  youtube:
+  youtube: youtube.com/quicksmartenglish
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
@@ -68,7 +68,7 @@ collections:
 # BUILD SETTINGS
 markdown: kramdown
 
-highlighter: pygments
+# highlighter: pygments
 sass:
   sass_dir: _sass
   style: :compressed

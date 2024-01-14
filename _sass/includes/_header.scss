@@ -1,9 +1,10 @@
 .site-header {
-  @extend %padding-small;
+  // @extend %padding-small;
   background: $brand-color;
   border-top:5px solid $header-desc-background-color;
   display: inline-block;
   width: 100%;
+
 
   a {
     color: $header-link-color;
@@ -25,6 +26,7 @@
   }
 
   .site-nav {
+    @extend %padding-small;
     ul {
       margin: 0;
       padding: 0;
