@@ -40,7 +40,7 @@ theme:
 
   # Scripts
   google_analytics:
-  google_tag_manager: G-5RKZYQCX07
+  google_tag_manager: "G-5RKZYQCX07"
   disqus_shortname:
   katex: true # Enable if using math markup
 
