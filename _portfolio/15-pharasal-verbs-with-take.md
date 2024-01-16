@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Phrasal Verbs with Take
-thumbnail-path: "img/thumbnail/pv-with-take.png"
+title: 15 Phrasal Verbs with Take
+thumbnail-path: "img/thumbnail/15-pharasal-verbs-with-take.png"
 short-description: Take your language skills further by learning phrasal verbs with TAKE.
 ---
 
@@ -19,7 +19,7 @@ allowfullscreen></iframe>
 
 [Phrasal-Verbs-with-Take.pdf]({{ site.baseurl }}/pdf/pv-with-take.pdf)
 
-## Phrasal Verbs with Take
+## 15 Phrasal Verbs with Take
 
 Take your language skills further by learning phrasal verbs with TAKE. From 'Take after' to 'Take away', this video breaks down each expression, providing insights into their meanings and usage.
 
