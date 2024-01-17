@@ -14,7 +14,7 @@ allowfullscreen></iframe>
 
 ## 20 Phrasal Verbs with Go
 
-<!-- [20-Phrasal-Verbs-with-Go.pdf]({{ site.baseurl }}/pdf/20-pharasal-verbs-with-go.pdf) -->
+[20-Phrasal-Verbs-with-Go.pdf]({{ site.baseurl }}/pdf/20-pharasal-verbs-with-go.pdf)
 
 Unlock the power of English phrasal verbs with my latest YouTube video! 
 In this video, each verb is explained with clear meanings and illustrated with practical examples.
