@@ -19,8 +19,6 @@ allowfullscreen></iframe>
 
 [Phrasal-Verbs-with-Take.pdf]({{ site.baseurl }}/pdf/pv-with-take.pdf)
 
-## 15 Phrasal Verbs with Take
-
 Take your language skills further by learning phrasal verbs with TAKE. From 'Take after' to 'Take away', this video breaks down each expression, providing insights into their meanings and usage.
 
 1. **Take after** : To resemble or inherit traits from someone.

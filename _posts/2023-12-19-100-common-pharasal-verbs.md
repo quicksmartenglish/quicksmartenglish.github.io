@@ -11,8 +11,7 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 </div>
-
-## 100 Common Phrasal Verbs
+<hr/>
 
 [100-Common-Phrasal-Verbs.pdf]({{ site.baseurl }}/pdf/100-common-pharasal-verbs.pdf)
 

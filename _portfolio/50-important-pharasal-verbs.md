@@ -18,8 +18,6 @@ allowfullscreen></iframe>
 
 [50-Important-Phrasal-Verbs.pdf]({{ site.baseurl }}/pdf/50-important-phrasal-verbs.pdf)
 
-## 50 Important Phrasal Verbs
-
 Take your language skills further by learning 50 important phrasal verbs. From 'Come across' to 'Turn down', this video breaks down each expression, providing insights into their meanings and usage.
 
 1. **Come across** : To find or encounter unexpectedly.

@@ -11,8 +11,7 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 </div>
-
-## 20 Must-Know Phrasal Verbs / Free-Time & Relaxing
+<hr/>
 
 [20-Must-Know-Phrasal-Verbs-Free-Time-Relaxing.pdf]({{ site.baseurl }}/pdf/20-learn-pharasal-verbs-about-free-time-and-relaxing.pdf)
 

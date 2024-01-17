@@ -11,8 +11,7 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 </div>
-
-## 20 Phrasal Verbs with Go
+<hr/>
 
 [20-Phrasal-Verbs-with-Go.pdf]({{ site.baseurl }}/pdf/20-pharasal-verbs-with-go.pdf)
 
