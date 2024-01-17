@@ -14,6 +14,8 @@ allowfullscreen></iframe>
 
 ## 20 Phrasal Verbs with Get
 
+[20-Phrasal-Verbs-with-Get.pdf]({{ site.baseurl }}/pdf/20-important-pharasal-verbs-with-get.pdf)
+
 Explore the world of Phrasal Verbs with "Get" on Quick Smart English!
 
 Ready for more? Check out our playlist on Phrasal Verbs for a comprehensive learning experience! 

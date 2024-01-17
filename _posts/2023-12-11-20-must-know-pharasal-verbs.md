@@ -14,6 +14,8 @@ allowfullscreen></iframe>
 
 ## 20 Must-Know Phrasal Verbs
 
+[20-Must-Know-Phrasal-Verbs.pdf]({{ site.baseurl }}/pdf/20-must-know-phrasal-verbs.pdf)
+
 Everyday English: 20 Must-Know Phrasal Verbs with Examples!
 
 Dive into the world of 20 must-know phrasal verbs that will elevate your language skills to new heights! 🚀

@@ -17,7 +17,7 @@ allowfullscreen></iframe>
 
 <hr/>
 
-[20-Weather-Pharasal-Verbs.pdf]({{ site.baseurl }}/pdf/20-weather-pharasal-verbs.pdf)
+[20-Weather-Pharasal-Verbs.pdf]({{ site.baseurl }}/pdf/20-weather-pharasal-verbs.pdf?v1)
 
 ## 20 Super Useful Weather Phrasal Verbs
 
