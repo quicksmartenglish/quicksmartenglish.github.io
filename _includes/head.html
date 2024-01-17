@@ -3,7 +3,7 @@
 	<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme.title }}</title>
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme.description }}{% endif %}">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta http-equiv="X-Frame-Options" content="sameorigin">
+	<!-- <meta http-equiv="X-Frame-Options" content="sameorigin"> -->
 
 	<!-- CSS -->
 	<link rel="stylesheet" href="{{ "/css/main.css?v4" | prepend: site.baseurl }}">
@@ -19,6 +19,8 @@
 
 	<!-- Font Awesome -->
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<script src="https://unpkg.com/@botpoison/browser" async></script>
 
 	<!-- Google Fonts -->
 	{% if site.theme.google_fonts %}
