@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 100 Common Phrases
-thumbnail-path: "img/thumbnail/100-common-pharases.png"
+thumbnail-path: "img/thumbnail/100-common-phrases.png"
 ---
 
 <div style="text-align:center;width:100%">
@@ -14,7 +14,7 @@ allowfullscreen></iframe>
 
 <hr/>
 
-[100-Common-Pharases.pdf]({{ site.baseurl }}/pdf/100-common-pharases.pdf)
+[100-Common-Phrases.pdf]({{ site.baseurl }}/pdf/100-common-phrases.pdf)
 
 Check out my new YouTube video featuring 100 common phrases for all your conversation needs! 
 
